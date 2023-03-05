@@ -7,6 +7,6 @@
   "Произошла непредвиденная ошибка": "Unexpected error",
   "Обновить страницу": "Reload page",
   "Тест ошибки ErrorBoundary": "Test error ErrorBoundary",
-  "test": "test",
-  "toggle":"toggle"
+  "test": "Test",
+  "toggle":"Toggle"
 }
