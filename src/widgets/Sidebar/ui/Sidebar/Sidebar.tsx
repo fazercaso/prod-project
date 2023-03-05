@@ -3,7 +3,7 @@ import { ThemeSwitcher } from 'shared/ui/ThemeSwitcher/ui/ThemeSwitcher';
 import { LangSwitcher } from 'shared/ui/LangSwitcher/LangSwitcher';
 import { Button } from 'shared/ui/Button/Button';
 import { classNames } from 'shared/lib/classNames/classNames';
-import { t } from 'i18next';
+import { useTranslation } from 'react-i18next';
 import cls from './Sidebar.module.scss';
 
 interface SidebarProps {
@@ -12,7 +12,7 @@ interface SidebarProps {
 
 export const Sidebar = ({ className }: SidebarProps) => {
     const [collapsed, setCollasped] = useState(false);
-
+    const { t } = useTranslation();
     const onToggle = () => {
         setCollasped((prev) => !prev);
     };
