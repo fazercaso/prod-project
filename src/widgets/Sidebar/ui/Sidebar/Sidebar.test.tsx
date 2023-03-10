@@ -7,7 +7,7 @@ import { Sidebar } from './Sidebar';
 
 describe('Sidebar', () => {
     test('Test render', () => {
-        renderWithTranslation(<Sidebar />);
+        componentRender(<Sidebar />);
         expect(screen.getByTestId('sidebar')).toBeInTheDocument();
     });
     test('Test toggle', () => {
