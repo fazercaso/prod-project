@@ -9,5 +9,6 @@
   "Обновить страницу": "Reload page",
   "Тест ошибки ErrorBoundary": "Test error ErrorBoundary",
   "test": "Test",
-  "toggle":"Toggle"
+  "toggle":"Toggle",
+  "Войти": "Log in"
 }

@@ -1,4 +1,3 @@
-import { BugButton } from 'app/providers/ErrorBoundery';
 import { useTranslation } from 'react-i18next';
 
 const MainPage = () => {
