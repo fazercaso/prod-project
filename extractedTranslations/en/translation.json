@@ -5,6 +5,8 @@
       " Unde placeat sed quia, laudantium ut saepe hic odit vitae tenetur aperiam ex impedit!": " Unde placeat sed quia, laudantium ut saepe hic odit vitae tenetur aperiam ex impedit!"
     }
   },
+  "decrement": "decrement",
+  "increment": "increment",
   "toggle": "toggle",
   "Войти": "Войти",
   "Главная": "Главная",
