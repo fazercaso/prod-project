@@ -8,17 +8,11 @@
     pointer-events: none;
     z-index: -1;
     color: var(--primary-color);
-    background: var(--bg-color);
 }
 
 .Modal.dark {
     --bg-color: #090949;
     --primary-color: #04ff04;
-}
-
-.Modal.light {
-    --bg-color: #eee;
-    --primary-color: #0232c2;
 }
 
 .overlay {
