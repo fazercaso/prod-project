@@ -1,4 +1,5 @@
-export type BuildMode = 'production' | 'development'
+export type BuildMode = 'production' | 'development';
+
 export type BuildPaths = {
     entry: string,
     build: string,
