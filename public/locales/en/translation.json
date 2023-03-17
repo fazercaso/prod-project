@@ -12,5 +12,7 @@
   "toggle": "Toggle",
   "Войти": "Log in",
   "increment": "increment",
-  "decrement": "decrement"
+  "decrement": "decrement",
+  "Введите username": "Write username",
+  "Введите пароль": "Write password"
 }

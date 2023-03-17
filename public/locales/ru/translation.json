@@ -10,5 +10,7 @@
   "Тест ошибки ErrorBoundary": "Тест ошибки ErrorBoundary",
   "test": "Test",
   "toggle":"Toggle",
-  "Войти": "Войти"
+  "Войти": "Войти",
+  "Введите username": "Введите username",
+  "Введите пароль": "Введите пароль"
 }
