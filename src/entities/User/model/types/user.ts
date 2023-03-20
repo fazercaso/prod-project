@@ -5,5 +5,5 @@ export interface User {
 }
 
 export interface UserSchema {
-    authDtat?: User;
+    authData?: User;
 }
